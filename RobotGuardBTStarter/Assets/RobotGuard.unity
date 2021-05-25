@@ -2132,7 +2132,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scripts:
-  - {fileID: 0}
+  - {fileID: 4900000, guid: 6fec4adaa971a1149bd69984bded938f, type: 3}
   autoReset: 1
   tickOn: 0
   sourceInfos:
