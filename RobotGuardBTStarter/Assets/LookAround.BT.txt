@@ -1,0 +1,10 @@
+ tree("Root")//Raiz
+	sequence
+		//ramdom = aleatoridade
+		random(5,1,1,1)
+			Turn(90.0)// rotação
+			Turn(-90.0)//rotaçao
+			Turn(145.0)//rotação
+			Turn(-27.0)//rotação
+		LookAtTarget//visualização do alvo
+		WaitRandom(2.0,5.0)// espera
